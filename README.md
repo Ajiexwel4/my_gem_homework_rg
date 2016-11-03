@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'my_gem'
+gem 'my_gem_homework_rg'
 ```
 
 And then execute:
@@ -18,11 +18,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install my_gem
+    $ gem install my_gem_homework_rg
 
 ## Usage
-
-TODO: Write usage instructions here
+require 'my_gem'
+This gem uses module MyGem with one method :hello_world
+TODO: MyGem.hello_world
 
 ## Development
 
